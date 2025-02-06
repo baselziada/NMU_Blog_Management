@@ -92,4 +92,4 @@ This is a simple blogging system built using the Laravel framework. It provides 
 
 8. **Your application will now be accessible at**:
    ```bash
-  `http://localhost:8000`
+   http://localhost:8000
