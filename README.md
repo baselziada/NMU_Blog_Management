@@ -13,17 +13,17 @@ This is a simple blogging system built using the Laravel framework. It provides 
         <br>Figure 1: Register Page
       </td>
       <td align="center">
-        <img src="path_to_login_image.png" alt="Login Page" width="400"/>
+        <img src="https://github.com/user-attachments/assets/4ea8a2e1-f137-499e-bfbc-e35f6650c661" alt="Login Page" width="400"/>
         <br>Figure 2: Login Page
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="path_to_dashboard_image.png" alt="Dashboard" width="400"/>
+        <img src="https://github.com/user-attachments/assets/d7e38034-83d8-43a1-8a43-1f8b2bc1da98" alt="Dashboard" width="400"/>
         <br>Figure 3: Dashboard
       </td>
       <td align="center">
-        <img src="path_to_all_posts_image.png" alt="All Posts" width="400"/>
+        <img src="https://github.com/user-attachments/assets/a2956e2b-11a1-4fe7-8dfb-2c4efb00d0e0" alt="All Posts" width="400"/>
         <br>Figure 4: All Posts
       </td>
     </tr>
