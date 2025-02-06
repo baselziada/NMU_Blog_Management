@@ -93,3 +93,47 @@ This is a simple blogging system built using the Laravel framework. It provides 
 8. **Your application will now be accessible at**:
    ```bash
    http://localhost:8000
+
+# 🚀 Future Enhancements
+- **User roles & permissions** for better access control.
+- **Comment system** to allow interaction on blog posts.
+- **Advanced search functionality** for better navigation.
+
+---
+
+## 🔗 Acknowledgments
+Special thanks to:
+- **Laravel Framework** for providing a powerful backend solution.
+- **Carbon Library** for date formatting.
+- **Open-source community** for valuable resources and documentation.
+
+---
+
+## 👨‍💻 Developed By
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/0a820f5d-7450-48e1-9d3c-76cccf6e2dcf" alt="Basel Ziada" width="120" style="border-radius: 50%;"/>
+<br>
+<strong>Basel Ziada</strong>
+<br>
+<a href="http://www.linkedin.com/in/basel-ziada-0b23032b3">LinkedIn Profile</a>
+</td>
+<td align="center">
+<img src="https://github.com/user-attachments/assets/2b8c5e35-00d3-42a7-b07b-51a2ece4a43f" alt="Sayed Tag Eldeen" width="120" style="border-radius: 50%;"/>
+<br>
+<strong>Sayed Tag Eldeen</strong>
+<br>
+<a href="https://www.linkedin.com/in/sayedtageldin">LinkedIn Profile</a>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 📜 License
+This project is open-source and available under the **MIT License**.
+
