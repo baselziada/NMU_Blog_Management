@@ -9,7 +9,7 @@ This is a simple blogging system built using the Laravel framework. It provides 
   <table>
     <tr>
       <td align="center">
-        <img src="![laravel3 1](https://github.com/user-attachments/assets/e024db9e-992c-467d-9c9f-0d3776e9b457)" alt="Register Page" width="400"/>
+        <img src="https://github.com/user-attachments/assets/e024db9e-992c-467d-9c9f-0d3776e9b457" alt="Register Page" width="400"/>
         <br>Figure 1: Register Page
       </td>
       <td align="center">
