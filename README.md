@@ -9,8 +9,7 @@ This is a simple blogging system built using the Laravel framework. It provides 
   <table>
     <tr>
       <td align="center">
-        <img src="![Uploading laravel3[1].jpg…]()
-" alt="Register Page" width="400"/>
+        <img src="![laravel3 1](https://github.com/user-attachments/assets/e024db9e-992c-467d-9c9f-0d3776e9b457)" alt="Register Page" width="400"/>
         <br>Figure 1: Register Page
       </td>
       <td align="center">
@@ -48,4 +47,3 @@ This is a simple blogging system built using the Laravel framework. It provides 
 - **Database Seeding**: A `PostSeeder` and `PostFactory` class created to seed the posts table with 500 records using the command:  
   ```bash
   php artisan db:seed
-
